@@ -1,0 +1,17 @@
+{
+  "name": "demo-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node sample.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-auth-library": "^0.12.0",
+    "googleapis": "^23.0.2",
+    "nodemon": "^1.17.2",
+    "telegraf": "^3.20.0"
+  }
+}
