@@ -11,6 +11,7 @@
   "dependencies": {
     "google-auth-library": "^0.12.0",
     "googleapis": "^23.0.2",
+    "mongodb": "^2.2.35",
     "nodemon": "^1.17.2",
     "telegraf": "^3.20.0"
   }

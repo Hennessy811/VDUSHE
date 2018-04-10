@@ -67,9 +67,6 @@ function getData(auth) {
     });
 }
 
-
-
-
 function appendData(auth) {
     var sheets = google.sheets('v4');
     sheets.spreadsheets.values.append({
